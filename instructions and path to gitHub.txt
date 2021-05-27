@@ -1,0 +1,8 @@
+Instructions for how to compile and run my application:
+
+1. You need the .NET Core SDK installed for your platform. 
+2. Then, you can go in command line into your project directory (the folder that contains your .csproj file) and run: dotnet build
+3. You can see a green message about "Build succeeded", warnings, errors, and time. Also you can see the path to dll (in my case: path to "CountBasket.dll")
+4. Go to this path and run dotnet CountBasket.dll
+
+Path to github: https://github.com/Natali-Dubotolkova/ShoppingBasket
