@@ -1,0 +1,16 @@
+G:\EPAM\interview\ShoppingBasket\MainProject\bin\Debug\net5.0\MainProject.exe
+G:\EPAM\interview\ShoppingBasket\MainProject\bin\Debug\net5.0\MainProject.deps.json
+G:\EPAM\interview\ShoppingBasket\MainProject\bin\Debug\net5.0\MainProject.runtimeconfig.json
+G:\EPAM\interview\ShoppingBasket\MainProject\bin\Debug\net5.0\MainProject.runtimeconfig.dev.json
+G:\EPAM\interview\ShoppingBasket\MainProject\bin\Debug\net5.0\MainProject.dll
+G:\EPAM\interview\ShoppingBasket\MainProject\bin\Debug\net5.0\ref\MainProject.dll
+G:\EPAM\interview\ShoppingBasket\MainProject\bin\Debug\net5.0\MainProject.pdb
+G:\EPAM\interview\ShoppingBasket\MainProject\obj\Debug\net5.0\MainProject.csprojAssemblyReference.cache
+G:\EPAM\interview\ShoppingBasket\MainProject\obj\Debug\net5.0\MainProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\EPAM\interview\ShoppingBasket\MainProject\obj\Debug\net5.0\MainProject.AssemblyInfoInputs.cache
+G:\EPAM\interview\ShoppingBasket\MainProject\obj\Debug\net5.0\MainProject.AssemblyInfo.cs
+G:\EPAM\interview\ShoppingBasket\MainProject\obj\Debug\net5.0\MainProject.csproj.CoreCompileInputs.cache
+G:\EPAM\interview\ShoppingBasket\MainProject\obj\Debug\net5.0\MainProject.dll
+G:\EPAM\interview\ShoppingBasket\MainProject\obj\Debug\net5.0\ref\MainProject.dll
+G:\EPAM\interview\ShoppingBasket\MainProject\obj\Debug\net5.0\MainProject.pdb
+G:\EPAM\interview\ShoppingBasket\MainProject\obj\Debug\net5.0\MainProject.genruntimeconfig.cache

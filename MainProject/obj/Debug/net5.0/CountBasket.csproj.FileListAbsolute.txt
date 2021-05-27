@@ -1,0 +1,16 @@
+G:\EPAM\interview\ShoppingBasket\MainProject\bin\Debug\net5.0\CountBasket.exe
+G:\EPAM\interview\ShoppingBasket\MainProject\bin\Debug\net5.0\CountBasket.deps.json
+G:\EPAM\interview\ShoppingBasket\MainProject\bin\Debug\net5.0\CountBasket.runtimeconfig.json
+G:\EPAM\interview\ShoppingBasket\MainProject\bin\Debug\net5.0\CountBasket.runtimeconfig.dev.json
+G:\EPAM\interview\ShoppingBasket\MainProject\bin\Debug\net5.0\CountBasket.dll
+G:\EPAM\interview\ShoppingBasket\MainProject\bin\Debug\net5.0\ref\CountBasket.dll
+G:\EPAM\interview\ShoppingBasket\MainProject\bin\Debug\net5.0\CountBasket.pdb
+G:\EPAM\interview\ShoppingBasket\MainProject\obj\Debug\net5.0\CountBasket.csprojAssemblyReference.cache
+G:\EPAM\interview\ShoppingBasket\MainProject\obj\Debug\net5.0\CountBasket.GeneratedMSBuildEditorConfig.editorconfig
+G:\EPAM\interview\ShoppingBasket\MainProject\obj\Debug\net5.0\CountBasket.AssemblyInfoInputs.cache
+G:\EPAM\interview\ShoppingBasket\MainProject\obj\Debug\net5.0\CountBasket.AssemblyInfo.cs
+G:\EPAM\interview\ShoppingBasket\MainProject\obj\Debug\net5.0\CountBasket.csproj.CoreCompileInputs.cache
+G:\EPAM\interview\ShoppingBasket\MainProject\obj\Debug\net5.0\CountBasket.dll
+G:\EPAM\interview\ShoppingBasket\MainProject\obj\Debug\net5.0\ref\CountBasket.dll
+G:\EPAM\interview\ShoppingBasket\MainProject\obj\Debug\net5.0\CountBasket.pdb
+G:\EPAM\interview\ShoppingBasket\MainProject\obj\Debug\net5.0\CountBasket.genruntimeconfig.cache
